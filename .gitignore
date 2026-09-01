@@ -1,0 +1,9 @@
+node_modules/
+.env
+.env.*
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+
+# dist/ 必须提交：SillyTavern 从 GitHub 安装时会直接读取构建产物。

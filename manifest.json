@@ -1,0 +1,17 @@
+{
+  "display_name": "Lorebook Groups / 世界书分组",
+  "loading_order": 50,
+  "js": "dist/index.js",
+  "css": "style.css",
+  "author": "似夜流月",
+  "version": "0.1.0",
+  "auto_update": true,
+  "minimum_client_version": "1.18.0",
+  "i18n": {
+    "zh-cn": "i18n/zh-cn.json"
+  },
+  "hooks": {
+    "activate": "onActivate",
+    "disable": "onDisable"
+  }
+}
